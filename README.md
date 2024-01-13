@@ -45,3 +45,6 @@ Think of it as a time machine for your files. Whether its code, documents, image
 
 **Git Rebase**
 : git rebase is a Git command used for integrating changes from one branch into another while maintaining a cleaner and more linear commit history.
+
+**Git Rebase Command**
+: `git rebase <base-branch>`
