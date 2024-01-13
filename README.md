@@ -32,3 +32,11 @@ Think of it as a time machine for your files. Whether its code, documents, image
 - Gitlab
 - Bitbucket
 - Gitea
+
+## 4. Explain the difference between git fetch and git pull
+
+| **Git Fetch**                                         | **Git pull**                                 |
+| ----------------------------------------------------- | -------------------------------------------- |
+| _git fetch downloads updates but doesn't merge them._ | _git pull fetches updates and merges them._  |
+| _git fetch is used to review changes before merging_  | _updates local branch with lastest changes._ |
+| _Doesn't affect working directory._                   | _Affects working dirctory._                  |
