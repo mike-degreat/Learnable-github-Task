@@ -48,3 +48,11 @@ Think of it as a time machine for your files. Whether its code, documents, image
 
 **Git Rebase Command**
 : `git rebase <base-branch>`
+
+## 6. Explain in simple terms `git cherry-pick` and the command for it
+
+**Git cherry-pick**
+: git cherry-pick is a Git command that allows you to pick and apply specific commits from one branch and apply them onto another branch. It's like selecting specific changes and copying them to a different branch.
+
+**Git cherry-pick command:**
+`git cherry-pick <commit-hash>`
