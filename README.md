@@ -41,7 +41,7 @@ Think of it as a time machine for your files. Whether its code, documents, image
 | _git fetch is used to review changes before merging_  | _updates local branch with lastest changes._ |
 | _Doesn't affect working directory._                   | _Affects working dirctory._                  |
 
-## 5. Explain in simple terms `git rebase`
+## 5. Explain in simple terms `git rebase` and the command for it
 
 **Git Rebase**
 : git rebase is a Git command used for integrating changes from one branch into another while maintaining a cleaner and more linear commit history.
