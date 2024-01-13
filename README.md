@@ -26,3 +26,9 @@ Think of it as a time machine for your files. Whether its code, documents, image
 | _Commit changes, track history, merge branches, resolve conflicts._ | _Manage Git repositories, collaborate with others, review code, track bugs._  |
 | _Can be used offline._                                              | _Requires internet connection_                                                |
 | _Steeper, requires command-line knowledge_                          | _Easier to use, visual interface and collaboration tools_                     |
+
+## List 3 other alternatives to github
+
+- Gitlab
+- Bitbucket
+- Gitea
